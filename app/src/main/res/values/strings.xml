@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesList</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="movie1">TheDarkKnight</string>
+    <string name="movie2">Inception</string>
+    <string name="movie3">Dune</string>
+    <string name="movie4">GoodFellas</string>
+    <string name="movie5">Titanic</string>
+    <string name="movie6">FightClub</string>
+</resources>

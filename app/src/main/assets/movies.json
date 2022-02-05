@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY",
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_(film)",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+
+    {
+      "title": "Alien",
+      "image" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgS4EaCIATEXUnDBg-FkJui_Tkjh1YiS_zhWvOpcGostwp9SQp",
+      "url": "https://en.wikipedia.org/wiki/Alien_(film)",
+      "description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+    },
+
+    {
+      "title": "Dune",
+      "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPqS6UaUbAFXbexufzQLa9PrCxjjw5MFTsEjsDC0ppVOhBcrmw",
+      "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "description": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy."
+    },
+
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaaU5KlgPC-NTIQV57QMeU8xyoZzHI9k6u-N-_cVvJkDOaqiPl",
+      "url": "https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+    },
+
+    {
+      "title": "Avengers: Endgame",
+      "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX2emQYcg7173Ya1AQdIMpB6TeBPETMVfikNI0r_xoC2Dos20Z",
+      "url": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+      "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+    },
+
+    {
+      "title": "Gladiator",
+      "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsTbBWNlONxxNjCuS9y5mw7zDA0UJOprUlKHLPfu_z-sCNWxlL",
+      "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+
+    {
+      "title": "The Matrix",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MOU9bwdtLj5bMlHioRxzkr2HEyll3bm1qab6D71WulrKJrtY",
+      "url": "https://en.wikipedia.org/wiki/The_Matrix",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    }
+  ]
+}
